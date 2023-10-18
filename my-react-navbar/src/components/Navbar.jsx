@@ -6,8 +6,9 @@ function Navbar() {
       <h1 style={styles.title}>Prueba</h1>
       <ul style={styles.navList}>
         <li style={styles.navItem}><a href="/">Inicio</a></li>
-        <li style={styles.navItem}><a href="/acerca-de">Acerca de</a></li>
-        <li style={styles.navItem}><a href="/contacto">Contacto</a></li>
+        <li style={styles.navItem}><a href="/categoria1">Categoría 1</a></li>
+        <li style={styles.navItem}><a href="/categoria2">Categoría 2</a></li>
+        <li style={styles.navItem}><a href="/carrito">Carrito</a></li>
       </ul>
     </nav>
   );
